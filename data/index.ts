@@ -108,20 +108,20 @@ export const testimonials = [
   {
     quote:
       "Collaborating with Ana was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ana's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ana is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Alisson Amegle",
+    title: "Back-End Developer at Pipoca Ágil",
   },
   {
     quote:
       "Collaborating with Ana was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ana's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ana is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Olívia Mara",
+    title: "PO at Pipoca Ágil",
   },
   {
     quote:
       "Collaborating with Ana was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ana's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ana is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Warlley Rocha",
+    title: "Front-End Developer at Pipoca Ágil",
   },
   {
     quote:
