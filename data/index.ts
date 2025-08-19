@@ -119,7 +119,7 @@ export const testimonials = [
   },
   {
     quote:
-      "Collaborating with Ana was an absolute pleasure. Her professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ana's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ana is the ideal partner.",
+      "I had the opportunity to work with Ana and quickly realized how dedicated and detail-oriented she is. Her commitment to writing clean, functional code is admirable, always seeking the best solution for each challenge. Beyond her technical prowess, Ana is extremely knowledgeable and collaborative, always willing to share her knowledge and contribute to the collective growth. Without a doubt, she's a valuable team player in every aspect.",
     name: "Warlley Rocha",
     title: "Front-End Developer at Pipoca Ágil",
   },
