@@ -188,8 +188,8 @@ export const workExperience = [
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "English Professor | Freelance",
+    desc: "Strengthened communication, teaching, and adaptability while guiding students from A1 to B2.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
