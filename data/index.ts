@@ -174,8 +174,8 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Frontend Dev | Pipoca Ágil",
+    desc: "Developed React/Tailwind components, Dockerized workflows, integrated Node.js APIs, and mentored junior devs in Agile teams.",
     className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
