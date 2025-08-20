@@ -181,8 +181,8 @@ export const workExperience = [
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Social Media Specialist | Única Classic",
+    desc: "Sharpened data-driven decision making, adaptability, and visual communication in digital campaigns.",
     className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
