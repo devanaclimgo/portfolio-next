@@ -167,8 +167,8 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Volunteer",
-    desc: "Developed platforms using React.js and React Native, enhancing interactivity.",
+    title: "Full Stack Engineer | Freelance",
+    desc: "Built scalable Ruby on Rails apps with PostgreSQL/MySQL, React/Next.js UIs, Docker CI/CD, and React Native pipelines.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
